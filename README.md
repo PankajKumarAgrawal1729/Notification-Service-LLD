@@ -31,6 +31,7 @@ A modular Java notification service demonstrating the use of Decorator, Observer
    javac -d bin src/**/*.java
 
 2. **Run:**
+   ```sh
    java -cp bin App
 
 
